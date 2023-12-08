@@ -1,5 +1,5 @@
-# Readme_of_Data_Analytics_portfolio
-Format of Data Analytics Portfolio's Readme file
+# Readme_of_Data_Analytics_Project
+Format of Data Analytics project's Readme file
 
 **Project Title**-
 
